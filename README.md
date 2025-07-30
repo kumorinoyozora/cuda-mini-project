@@ -1,1 +1,1 @@
-# cuda-mini-project
+См. reversed_matrix.ipynb
